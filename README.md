@@ -4,3 +4,4 @@
 [image](https://user-images.githubusercontent.com/73945845/178134218-2a4d1c0d-2c9b-4d3f-8a3e-5410d7816d58.png)
 [image](https://user-images.githubusercontent.com/73945845/178134247-86953fcf-7764-413e-9fb3-a48c423aac63.png)
 [image](https://user-images.githubusercontent.com/73945845/178134258-7ee0a58d-e601-4fe5-8410-567d05c5be02.png)
+file:///C:/Users/AWAN/OneDrive/Documents/Tugas%20Awan/Semester%204/UAS_pemrograman_smstr4.pdf
